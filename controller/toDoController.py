@@ -1,6 +1,6 @@
 import connector
 from datetime import datetime
-import validate as valid
+import validate.validate as valid
 import model.modelResp as im_ModelResp
 import config.configLogFile as im_configLogFile
 import constant.constant as im_constant
